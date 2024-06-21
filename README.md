@@ -1,2 +1,13 @@
-# S.zichen
-My personal repository
+# About me
+<!--
+<!--
+<!--
+<!--
+<!--
+<!-->
+## Skills
+### Circuit
+### PCB
+### STM32
+### C
+### DataStructure
